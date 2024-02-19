@@ -4,7 +4,7 @@
 ## How to run:
 - Download repo
 - Open Terminal
-- Navigate to folder and then to src folder: cd ~/downloads/weather-react-main/src
+- Navigate to folder and then to src folder: cd ~/downloads/temperature-converter-main/src
 - Type "g++ temperature-converter.cpp -o temperature-converter"
 - Type "./temperature-converter"
 - Program should run IN Terminal, follow the directions on the screen.
